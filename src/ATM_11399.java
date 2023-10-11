@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class ATM{
+public class ATM_11399{
     public static void main(String[] args)throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
