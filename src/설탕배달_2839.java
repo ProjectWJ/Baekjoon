@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class 설탕배달{
+public class 설탕배달_2839{
     public static void main(String[] args)throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -80,5 +80,5 @@ public class 설탕배달{
  * 아무런 레퍼런스 없이 풀었고 정답을 받았지만 2번 조건을 작성하는 데 상당히 애먹었다.
  * 또 수의 규칙을 찾지 못했다.
  * https://st-lab.tistory.com/72
- * 위의 페이지에서 수의 규칙을 찾아 문제를 해결한 사례가 있다.
+ * 여기서 수의 규칙을 찾아 문제를 해결한 사례가 있다.
  */
